@@ -1,0 +1,14 @@
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\bin\Debug\net10.0\Conversie de baze.exe
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\bin\Debug\net10.0\Conversie de baze.deps.json
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\bin\Debug\net10.0\Conversie de baze.runtimeconfig.json
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\bin\Debug\net10.0\Conversie de baze.dll
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\bin\Debug\net10.0\Conversie de baze.pdb
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.AssemblyInfoInputs.cache
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.AssemblyInfo.cs
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.csproj.CoreCompileInputs.cache
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.dll
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\refint\Conversie de baze.dll
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.pdb
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\Conversie de baze.genruntimeconfig.cache
+D:\Codes\Conversie de baze\Conversie de baze\Conversie de baze\obj\Debug\net10.0\ref\Conversie de baze.dll
