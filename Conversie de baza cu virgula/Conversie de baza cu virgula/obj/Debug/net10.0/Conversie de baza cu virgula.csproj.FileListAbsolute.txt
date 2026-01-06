@@ -1,0 +1,14 @@
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.AssemblyInfoInputs.cache
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.AssemblyInfo.cs
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.csproj.CoreCompileInputs.cache
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\bin\Debug\net10.0\Conversie de baza cu virgula.exe
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\bin\Debug\net10.0\Conversie de baza cu virgula.deps.json
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\bin\Debug\net10.0\Conversie de baza cu virgula.runtimeconfig.json
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\bin\Debug\net10.0\Conversie de baza cu virgula.dll
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\bin\Debug\net10.0\Conversie de baza cu virgula.pdb
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.dll
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\refint\Conversie de baza cu virgula.dll
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.pdb
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\Conversie de baza cu virgula.genruntimeconfig.cache
+D:\Codes\Conversie de baza cu virgula\Conversie de baza cu virgula\obj\Debug\net10.0\ref\Conversie de baza cu virgula.dll
